@@ -1,6 +1,1 @@
 # aulagit
-
-
-#BLA
-#BLA
-#BLA
